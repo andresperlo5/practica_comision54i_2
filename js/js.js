@@ -1,5 +1,7 @@
 const LS = JSON.parse(localStorage.getItem('arrayElement')) || []
 
+
+
 let array3 = []
 
 if(LS.length > 0){
